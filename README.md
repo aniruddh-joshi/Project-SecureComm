@@ -139,7 +139,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [zxcvbn](https://github.com/dropbox/zxcvbn)
-- Open-source community ❤️
 
 ---
 
@@ -148,6 +147,5 @@ This project is licensed under the [MIT License](LICENSE).
 1. [NIST Cryptographic Standards](https://csrc.nist.gov/)
 2. [CryptoJS Documentation](https://cryptojs.gitbook.io/docs/)
 3. [Web Crypto API Specification](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-4. Modern Cryptography Principles
-5. [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-6. [React Docs](https://react.dev/)
+4. [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+5. [React Docs](https://react.dev/)
